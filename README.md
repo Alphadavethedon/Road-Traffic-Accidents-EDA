@@ -1,6 +1,6 @@
 # Traffic Accident Analysis & Severity Prediction
 
-![Project Banner](https://via.placeholder.com/800x200?text=Traffic+Accident+Analysis) <!-- Add a relevant banner image -->
+![Project Banner](https://images.unsplash.com/photo-1508780709619-79562169bc00?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=400&q=80)
 
 A comprehensive analysis of US traffic accidents using two datasets to understand patterns, contributing factors, and predict accident severity.
 
